@@ -1,3 +1,3 @@
-"# JavaScript Bootcamp" 
-"# percentage calculator" 
-"# temperature convertor" 
+# JavaScript Bootcamp
+# percentage calculator
+# temperature convertor
